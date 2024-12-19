@@ -4,8 +4,8 @@ uncover the VM bytecode (devirtualizeMe, I guess) + capture the flag
 # Notes
 
 - Your input "key" to the binary as an argument, must be 16 characters in length (a-z, A-Z ... no numbers or special symbols included here)
-- Recover the VM bytecode, and the flag, and DM both of those to me on discord `@terraphax` ...
-- For the VM bytecode, send a screenshot or inline text of your disassembled basic blocks of the custom instruction set... for the flag, send the string.
+- Recover the VM bytecode, the flag, and craft an input to the binary that results in the flag being displayed (no tricks) ... DM all of those to me on discord `@terraphax` ...
+- For the VM bytecode, send a screenshot or inline text of your disassembled basic blocks of the custom instruction set... for the flag, send the string ... for the correct input, send the string ...
 
 # Hint
 
