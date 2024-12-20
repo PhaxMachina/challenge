@@ -1,6 +1,12 @@
 # challenge
 uncover the VM bytecode (devirtualizeMe, I guess) + capture the flag
 
+# Archival notice
+
+this is a failure, and i am scrapping the project as a result.
+you can still do every part of the challenge except devirtualization, since the compiler had generated an optimized path that the original input used.
+bye
+
 # Notes
 
 - The challenge binary is located in this repository, named `challenge.bin`
